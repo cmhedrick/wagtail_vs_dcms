@@ -97,6 +97,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
 # proj dbs
 db.sqlite3
 project.db
+
+#pycharm
+.idea
+.idea/
+*idea/
