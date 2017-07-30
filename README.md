@@ -1,0 +1,8 @@
+# Django CMS Demo
+Django CMS is one of the earliest Django based Content Managment Systems (CMS) to gain a following. Giving it time and the power needed to blossom into a stable and featureful CMS. Part of what makes Django CMS so wonderful is that out of the box much of the developers work is done. This was majorly thanks to DjangoCMS-Installer that was produced later as Django CMS matured. At most a developer would just need to add their own css to the templates. Which means a user with enough background in CSS and HTML, a user could potentially just use Django CMS basically out of the box. Django CMS also has fantastic plugin integration, with a fairly sized, and competent community. The Django CMS also uses the Default Django Admin Panel as a spring board, giving developers a familiar ground to work with.
+
+# Wagtail CMS Demo
+Wagtail CMS was introduced later in Django's development and made it's appearence after Django CMS. Wagtail offers it's own pro's such as the built in Taggit integration. This meant to inegrate a seperate Django project that aimed to help make searching Django content easier by introducing "tags". This makes Wagtail especially valuable to those looking to create sites such as blogs. Wagtail also sets itself up very nicely with their tutorial for making a blog using Wagtail CMS. Not to mention their Admin panel which resembles that of Word Press, another popular CMS that was created using PHP. Wagtail's Admin panel also focuses the user to creating content through the CMS. 
+
+### Comparisons
+Coming Soon
